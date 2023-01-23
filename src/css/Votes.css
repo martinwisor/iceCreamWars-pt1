@@ -1,0 +1,34 @@
+.Votes label {
+  font-weight: bold;
+  display: inline-block;
+  width: 6em;
+}
+
+.Votes p {
+  margin-top: 8px;
+  margin-bottom: 2px;
+}
+
+.progressChocolate {
+  background-color: gray;
+}
+
+.progressChocolate::-moz-progress-bar {
+  background-color: sienna;
+}
+
+.progressStrawberry {
+  background-color: gray;
+}
+
+.progressStrawberry::-moz-progress-bar {
+  background-color: pink;
+}
+
+.progressVanilla {
+  background-color: gray;
+}
+
+.progressVanilla::-moz-progress-bar {
+  background-color: whitesmoke;
+}
